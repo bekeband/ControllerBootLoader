@@ -3,27 +3,27 @@ Archive member included because of file (symbol)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(memcpy.o)
                               build/default/production/_ext/60176403/plib_nvm.o (memcpy)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_bootstrap_exception_handler)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_bootstrap_exception_handler)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_on_reset)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_on_reset)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_on_bootstrap)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_on_bootstrap)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-nmi-handler.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_nmi_handler)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_nmi_handler)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_data_init.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (__pic32_data_init)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (__pic32_data_init)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_init_cache.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (__pic32_init_cache)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (__pic32_init_cache)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_init_tlb_ebi_sqi.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (__pic32_tlb_init_ebi_sqi)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (__pic32_tlb_init_ebi_sqi)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(general-exception.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_general_exception_context)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_general_exception_context)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(cache-err-exception.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_cache_err_exception_context)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_cache_err_exception_context)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(simple-tlb-refill-exception.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o (_simple_tlb_refill_exception_context)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o (_simple_tlb_refill_exception_context)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
-                              C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o (_DefaultInterrupt)
+                              C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o (_DefaultInterrupt)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
                               d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(general-exception.o) (_general_exception_handler)
 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
@@ -53,33 +53,32 @@ section                    address  length [bytes]      (dec)  Description
 .tlb.__pic32_tlb_init_e 0x9fc01b00           0xbc         188   
 .text.crc_generate      0x9fc01bbc           0xb8         184   
 .text.CLK_Initialize    0x9fc01c74           0x94         148   
-.text.SYS_Initialize    0x9fc01d08           0x94         148   
-.text                   0x9fc01d9c           0x84         132  App's exec code 
-.text.NVM_StartOperatio 0x9fc01e20           0x74         116   
-.text._bootstrap_except 0x9fc01e94           0x48          72   
-.text._general_exceptio 0x9fc01edc           0x48          72   
-.text._cache_err_except 0x9fc01f24           0x48          72   
-.text._simple_tlb_refil 0x9fc01f6c           0x48          72   
-.text                   0x9fc01fb4           0x44          68  App's exec code 
-.text.CORETIMER_Initial 0x9fc01ff8           0x3c          60   
-.text.UART3_Initialize  0x9fc02034           0x38          56   
-.text.run_Application   0x9fc0206c           0x34          52   
-.text.NVM_RowWrite      0x9fc020a0           0x30          48   
-.text.CORETIMER_Compare 0x9fc020d0           0x2c          44   
-.text.NVM_WriteUnlockSe 0x9fc020fc           0x28          40   
-.text.main              0x9fc02124           0x28          40   
-.text.EVIC_Initialize   0x9fc0214c           0x24          36   
-.text.NVM_Initialize    0x9fc02170           0x24          36   
-.text.CORETIMER_Compare 0x9fc02194           0x20          32   
-.text.NVM_PageErase     0x9fc021b4           0x20          32   
-.text.UART3_WriteByte   0x9fc021d4           0x20          32   
-.text.UART3_ReadByte    0x9fc021f4           0x10          16   
-.text.UART3_ReceiverIsR 0x9fc02204           0x10          16   
-.text.bootloader_Trigge 0x9fc02214            0x8           8   
-.text.GPIO_Initialize   0x9fc0221c            0x8           8   
-.text._on_reset         0x9fc02224            0x8           8   
-.text._on_bootstrap     0x9fc0222c            0x8           8   
-      Total kseg0_program_mem used  :      0x1228        4648  28.4% of 0x4000
+.text.SYS_Initialize    0x9fc01d08           0x8c         140   
+.text                   0x9fc01d94           0x84         132  App's exec code 
+.text.NVM_StartOperatio 0x9fc01e18           0x74         116   
+.text._bootstrap_except 0x9fc01e8c           0x48          72   
+.text._general_exceptio 0x9fc01ed4           0x48          72   
+.text._cache_err_except 0x9fc01f1c           0x48          72   
+.text._simple_tlb_refil 0x9fc01f64           0x48          72   
+.text                   0x9fc01fac           0x44          68  App's exec code 
+.text.CORETIMER_Initial 0x9fc01ff0           0x3c          60   
+.text.UART3_Initialize  0x9fc0202c           0x38          56   
+.text.run_Application   0x9fc02064           0x34          52   
+.text.NVM_RowWrite      0x9fc02098           0x30          48   
+.text.CORETIMER_Compare 0x9fc020c8           0x2c          44   
+.text.NVM_WriteUnlockSe 0x9fc020f4           0x28          40   
+.text.main              0x9fc0211c           0x28          40   
+.text.NVM_Initialize    0x9fc02144           0x24          36   
+.text.CORETIMER_Compare 0x9fc02168           0x20          32   
+.text.NVM_PageErase     0x9fc02188           0x20          32   
+.text.UART3_WriteByte   0x9fc021a8           0x20          32   
+.text.UART3_ReadByte    0x9fc021c8           0x10          16   
+.text.UART3_ReceiverIsR 0x9fc021d8           0x10          16   
+.text.bootloader_Trigge 0x9fc021e8            0x8           8   
+.text.GPIO_Initialize   0x9fc021f0            0x8           8   
+.text._on_reset         0x9fc021f8            0x8           8   
+.text._on_bootstrap     0x9fc02200            0x8           8   
+      Total kseg0_program_mem used  :      0x11fc        4604  28.1% of 0x4000
 
 kseg1 Boot-Memory Usage
 section                    address  length [bytes]      (dec)  Description
@@ -88,7 +87,7 @@ section                    address  length [bytes]      (dec)  Description
 .bev_excpt              0xbfc00380           0x10          16  BEV-Exception 
          Total kseg1_boot_mem used  :       0x1c4         452  39.2% of 0x480
         --------------------------------------------------------------------------
-         Total Program Memory used  :      0x13ec        5100  29.1% of 0x4480
+         Total Program Memory used  :      0x13c0        5056  28.8% of 0x4480
         --------------------------------------------------------------------------
 
 
@@ -142,6 +141,8 @@ Discarded input sections
  .data          0x00000000        0x0 build/default/production/_ext/1865200349/plib_evic.o
  .bss           0x00000000        0x0 build/default/production/_ext/1865200349/plib_evic.o
  .reginfo       0x00000000       0x18 build/default/production/_ext/1865200349/plib_evic.o
+ .text.EVIC_Initialize
+                0x00000000       0x24 build/default/production/_ext/1865200349/plib_evic.o
  .text.EVIC_SourceEnable
                 0x00000000       0x28 build/default/production/_ext/1865200349/plib_evic.o
  .text.EVIC_SourceDisable
@@ -198,14 +199,6 @@ Discarded input sections
                 0x00000000       0x48 build/default/production/_ext/60176403/plib_nvm.o
  .text.NVM_BootFlashWriteProtectLock
                 0x00000000       0x48 build/default/production/_ext/60176403/plib_nvm.o
- .text          0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
- .data          0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
- .bss           0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
- .reginfo       0x00000000       0x18 build/default/production/_ext/1171490990/initialization.o
- .text          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
- .data          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
- .bss           0x00000000        0x0 build/default/production/_ext/1360937237/main.o
- .reginfo       0x00000000       0x18 build/default/production/_ext/1360937237/main.o
  .text          0x00000000        0x0 build/default/production/_ext/1865657120/plib_uart3.o
  .data          0x00000000        0x0 build/default/production/_ext/1865657120/plib_uart3.o
  .bss           0x00000000        0x0 build/default/production/_ext/1865657120/plib_uart3.o
@@ -220,6 +213,14 @@ Discarded input sections
                 0x00000000       0xb0 build/default/production/_ext/1865657120/plib_uart3.o
  .text.UART3_TransmitterIsReady
                 0x00000000       0x14 build/default/production/_ext/1865657120/plib_uart3.o
+ .text          0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
+ .data          0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1171490990/initialization.o
+ .text          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
+ .data          0x00000000        0x0 build/default/production/_ext/1360937237/main.o
+ .bss           0x00000000        0x0 build/default/production/_ext/1360937237/main.o
+ .reginfo       0x00000000       0x18 build/default/production/_ext/1360937237/main.o
  .text          0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\processor.o
  .data          0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\processor.o
  .bss           0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\processor.o
@@ -228,19 +229,19 @@ Discarded input sections
  .data          0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\vector_offset_init.o
  .bss           0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\vector_offset_init.o
  .reginfo       0x00000000       0x18 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\vector_offset_init.o
- .text          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
- .data          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
- .bss           0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
- .reginfo       0x00000000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
- .text          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccfta7qe.o
- .data          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccfta7qe.o
- .bss           0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccfta7qe.o
- .reginfo       0x00000000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\ccfta7qe.o
- .text          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o
- .data          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o
- .bss           0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o
- .reginfo       0x00000000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o
- .discard       0x00000000        0x4 C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o
+ .text          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
+ .data          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
+ .bss           0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
+ .reginfo       0x00000000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
+ .text          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccE1jwDM.o
+ .data          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccE1jwDM.o
+ .bss           0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\ccE1jwDM.o
+ .reginfo       0x00000000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\ccE1jwDM.o
+ .text          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o
+ .data          0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o
+ .bss           0x00000000        0x0 C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o
+ .reginfo       0x00000000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o
+ .discard       0x00000000        0x4 C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o
  .text          0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\default_isr_vectors.o
  .data          0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\default_isr_vectors.o
  .bss           0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\default_isr_vectors.o
@@ -485,9 +486,9 @@ LOAD build/default/production/_ext/1249264884/plib_coretimer.o
 LOAD build/default/production/_ext/1865200349/plib_evic.o
 LOAD build/default/production/_ext/1865254177/plib_gpio.o
 LOAD build/default/production/_ext/60176403/plib_nvm.o
+LOAD build/default/production/_ext/1865657120/plib_uart3.o
 LOAD build/default/production/_ext/1171490990/initialization.o
 LOAD build/default/production/_ext/1360937237/main.o
-LOAD build/default/production/_ext/1865657120/plib_uart3.o
                 0x00000001                __MPLAB_BUILD = 0x1
                 0x00000400                PROVIDE (_min_stack_size, 0x400)
 START GROUP
@@ -933,16 +934,16 @@ END GROUP
 
 .reset          0xbfc00000      0x1b4
  *(.reset)
- .reset         0xbfc00000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+ .reset         0xbfc00000       0x18 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
                 0xbfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0xbfc00018      0x19c C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+                0xbfc00018      0x19c C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
                 0xbfc00018                _startup
 
 .bev_excpt      0xbfc00380       0x10
  *(.bev_handler)
- .bev_handler   0xbfc00380       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+ .bev_handler   0xbfc00380       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
 
 .cache_init     0xbfc004b0      0x1c0
  *(.cache_init)
@@ -957,17 +958,17 @@ END GROUP
                 0x9fc01000       0x10
  *(.simple_tlb_refill_vector)
  .simple_tlb_refill_vector
-                0x9fc01000       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+                0x9fc01000       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
 
 .cache_err_excpt
                 0x9fc01100       0x10
  *(.cache_err_vector)
  .cache_err_vector
-                0x9fc01100       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+                0x9fc01100       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
 
 .app_excpt      0x9fc01180       0x10
  *(.gen_handler)
- .gen_handler   0x9fc01180       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+ .gen_handler   0x9fc01180       0x10 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
 
 .vectors        0x9fc01200       0x48
                 0x9fc01200                . = ALIGN (0x4)
@@ -1931,9 +1932,9 @@ END GROUP
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1865200349/plib_evic.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1865254177/plib_gpio.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/60176403/plib_nvm.o
+ .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1865657120/plib_uart3.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1171490990/initialization.o
  .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1360937237/main.o
- .mdebug.abi32  0x00000000        0x0 build/default/production/_ext/1865657120/plib_uart3.o
  .mdebug.abi32  0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .mdebug.abi32  0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
  .mdebug.abi32  0x00000000        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
@@ -1990,9 +1991,9 @@ END GROUP
  .comment       0x00000000       0x3d build/default/production/_ext/1865200349/plib_evic.o
  .comment       0x00000000       0x3d build/default/production/_ext/1865254177/plib_gpio.o
  .comment       0x00000000       0x3d build/default/production/_ext/60176403/plib_nvm.o
+ .comment       0x00000000       0x3d build/default/production/_ext/1865657120/plib_uart3.o
  .comment       0x00000000       0x3d build/default/production/_ext/1171490990/initialization.o
  .comment       0x00000000       0x3d build/default/production/_ext/1360937237/main.o
- .comment       0x00000000       0x3d build/default/production/_ext/1865657120/plib_uart3.o
  .comment       0x00000000       0x3d d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .comment       0x00000000       0x3d d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
  .comment       0x00000000       0x3d d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
@@ -2033,11 +2034,11 @@ END GROUP
  .debug_aranges
                 0x00000168       0x98 build/default/production/_ext/60176403/plib_nvm.o
  .debug_aranges
-                0x00000200       0x20 build/default/production/_ext/1171490990/initialization.o
+                0x00000200       0x68 build/default/production/_ext/1865657120/plib_uart3.o
  .debug_aranges
-                0x00000220       0x20 build/default/production/_ext/1360937237/main.o
+                0x00000268       0x20 build/default/production/_ext/1171490990/initialization.o
  .debug_aranges
-                0x00000240       0x68 build/default/production/_ext/1865657120/plib_uart3.o
+                0x00000288       0x20 build/default/production/_ext/1360937237/main.o
  .debug_aranges
                 0x000002a8       0x20 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_aranges
@@ -2057,27 +2058,27 @@ END GROUP
  *.elf(.debug_pubnames)
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x5043
+.debug_info     0x00000000     0x5170
  *.elf(.debug_info .gnu.linkonce.wi.*)
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0x947 build/default/production/_ext/1748409734/bootloader.o
- .debug_info    0x00000947      0x225 build/default/production/_ext/60165520/plib_clk.o
- .debug_info    0x00000b6c      0x6a4 build/default/production/_ext/1249264884/plib_coretimer.o
- .debug_info    0x00001210     0x16ea build/default/production/_ext/1865200349/plib_evic.o
- .debug_info    0x000028fa      0x4bb build/default/production/_ext/1865254177/plib_gpio.o
- .debug_info    0x00002db5      0xd53 build/default/production/_ext/60176403/plib_nvm.o
- .debug_info    0x00003b08      0x4c1 build/default/production/_ext/1171490990/initialization.o
- .debug_info    0x00003fc9      0x1d6 build/default/production/_ext/1360937237/main.o
- .debug_info    0x0000419f      0x83f build/default/production/_ext/1865657120/plib_uart3.o
- .debug_info    0x000049de       0xf4 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x00004ad2       0xcd d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
- .debug_info    0x00004b9f       0xd5 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
- .debug_info    0x00004c74       0xe7 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
- .debug_info    0x00004d5b       0xf0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
- .debug_info    0x00004e4b       0xf4 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
- .debug_info    0x00004f3f      0x104 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+ .debug_info    0x00000000      0x96c build/default/production/_ext/1748409734/bootloader.o
+ .debug_info    0x0000096c      0x24a build/default/production/_ext/60165520/plib_clk.o
+ .debug_info    0x00000bb6      0x6c9 build/default/production/_ext/1249264884/plib_coretimer.o
+ .debug_info    0x0000127f     0x170f build/default/production/_ext/1865200349/plib_evic.o
+ .debug_info    0x0000298e      0x4e0 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_info    0x00002e6e      0xd78 build/default/production/_ext/60176403/plib_nvm.o
+ .debug_info    0x00003be6      0x864 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_info    0x0000444a      0x4c6 build/default/production/_ext/1171490990/initialization.o
+ .debug_info    0x00004910      0x1fb build/default/production/_ext/1360937237/main.o
+ .debug_info    0x00004b0b       0xf4 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x00004bff       0xcd d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+ .debug_info    0x00004ccc       0xd5 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x00004da1       0xe7 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
+ .debug_info    0x00004e88       0xf0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+ .debug_info    0x00004f78       0xf4 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+ .debug_info    0x0000506c      0x104 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
 
-.debug_abbrev   0x00000000      0xc7c
+.debug_abbrev   0x00000000      0xc6b
  *.elf(.debug_abbrev)
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x26c build/default/production/_ext/1748409734/bootloader.o
@@ -2086,36 +2087,36 @@ END GROUP
  .debug_abbrev  0x0000040b       0xed build/default/production/_ext/1865200349/plib_evic.o
  .debug_abbrev  0x000004f8       0xd7 build/default/production/_ext/1865254177/plib_gpio.o
  .debug_abbrev  0x000005cf      0x1fd build/default/production/_ext/60176403/plib_nvm.o
- .debug_abbrev  0x000007cc      0x132 build/default/production/_ext/1171490990/initialization.o
- .debug_abbrev  0x000008fe       0x93 build/default/production/_ext/1360937237/main.o
- .debug_abbrev  0x00000991      0x1d3 build/default/production/_ext/1865657120/plib_uart3.o
- .debug_abbrev  0x00000b64       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_abbrev  0x00000b8c       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
- .debug_abbrev  0x00000bb4       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
- .debug_abbrev  0x00000bdc       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
- .debug_abbrev  0x00000c04       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
- .debug_abbrev  0x00000c2c       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
- .debug_abbrev  0x00000c54       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+ .debug_abbrev  0x000007cc      0x1d3 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_abbrev  0x0000099f      0x121 build/default/production/_ext/1171490990/initialization.o
+ .debug_abbrev  0x00000ac0       0x93 build/default/production/_ext/1360937237/main.o
+ .debug_abbrev  0x00000b53       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x00000b7b       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+ .debug_abbrev  0x00000ba3       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00000bcb       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
+ .debug_abbrev  0x00000bf3       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+ .debug_abbrev  0x00000c1b       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+ .debug_abbrev  0x00000c43       0x28 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
 
-.debug_line     0x00000000     0x193b
+.debug_line     0x00000000     0x1bb6
  *.elf(.debug_line)
  *(.debug_line)
- .debug_line    0x00000000      0x366 build/default/production/_ext/1748409734/bootloader.o
- .debug_line    0x00000366      0x149 build/default/production/_ext/60165520/plib_clk.o
- .debug_line    0x000004af      0x1ee build/default/production/_ext/1249264884/plib_coretimer.o
- .debug_line    0x0000069d      0x1c2 build/default/production/_ext/1865200349/plib_evic.o
- .debug_line    0x0000085f      0x1d8 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_line    0x00000a37      0x2b0 build/default/production/_ext/60176403/plib_nvm.o
- .debug_line    0x00000ce7      0x42c build/default/production/_ext/1171490990/initialization.o
- .debug_line    0x00001113      0x137 build/default/production/_ext/1360937237/main.o
- .debug_line    0x0000124a      0x284 build/default/production/_ext/1865657120/plib_uart3.o
- .debug_line    0x000014ce       0xa6 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x00001574       0x93 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
- .debug_line    0x00001607       0x97 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
- .debug_line    0x0000169e       0xa5 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
- .debug_line    0x00001743       0xa4 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
- .debug_line    0x000017e7       0xa6 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
- .debug_line    0x0000188d       0xae d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+ .debug_line    0x00000000      0x3fa build/default/production/_ext/1748409734/bootloader.o
+ .debug_line    0x000003fa      0x16e build/default/production/_ext/60165520/plib_clk.o
+ .debug_line    0x00000568      0x213 build/default/production/_ext/1249264884/plib_coretimer.o
+ .debug_line    0x0000077b      0x1e7 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_line    0x00000962      0x1fd build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_line    0x00000b5f      0x2d5 build/default/production/_ext/60176403/plib_nvm.o
+ .debug_line    0x00000e34      0x2a9 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_line    0x000010dd      0x4c6 build/default/production/_ext/1171490990/initialization.o
+ .debug_line    0x000015a3      0x1a6 build/default/production/_ext/1360937237/main.o
+ .debug_line    0x00001749       0xa6 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x000017ef       0x93 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+ .debug_line    0x00001882       0x97 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x00001919       0xa5 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(defaultinterrupt.o)
+ .debug_line    0x000019be       0xa4 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+ .debug_line    0x00001a62       0xa6 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+ .debug_line    0x00001b08       0xae d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
 
 .debug_frame    0x00000000      0x684
  *.elf(.debug_frame)
@@ -2126,9 +2127,9 @@ END GROUP
  .debug_frame   0x00000190       0x80 build/default/production/_ext/1865200349/plib_evic.o
  .debug_frame   0x00000210       0xa0 build/default/production/_ext/1865254177/plib_gpio.o
  .debug_frame   0x000002b0      0x1ac build/default/production/_ext/60176403/plib_nvm.o
- .debug_frame   0x0000045c       0x2c build/default/production/_ext/1171490990/initialization.o
- .debug_frame   0x00000488       0x2c build/default/production/_ext/1360937237/main.o
- .debug_frame   0x000004b4       0xc0 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_frame   0x0000045c       0xc0 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_frame   0x0000051c       0x2c build/default/production/_ext/1171490990/initialization.o
+ .debug_frame   0x00000548       0x2c build/default/production/_ext/1360937237/main.o
  .debug_frame   0x00000574       0x2c d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_frame   0x000005a0       0x20 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
  .debug_frame   0x000005c0       0x20 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
@@ -2146,9 +2147,9 @@ END GROUP
  .debug_str     0x00000014        0x7 build/default/production/_ext/1865200349/plib_evic.o
  .debug_str     0x0000001b        0xa build/default/production/_ext/1865254177/plib_gpio.o
  .debug_str     0x00000025       0x29 build/default/production/_ext/60176403/plib_nvm.o
- .debug_str     0x0000004e        0x0 build/default/production/_ext/1171490990/initialization.o
- .debug_str     0x0000004e        0x0 build/default/production/_ext/1360937237/main.o
  .debug_str     0x0000004e       0x15 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_str     0x00000063        0x0 build/default/production/_ext/1171490990/initialization.o
+ .debug_str     0x00000063        0x0 build/default/production/_ext/1360937237/main.o
  .debug_str     0x00000063        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_str     0x00000063        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
  .debug_str     0x00000063        0x0 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
@@ -2165,8 +2166,8 @@ END GROUP
  .debug_loc     0x000002ac       0x84 build/default/production/_ext/1865200349/plib_evic.o
  .debug_loc     0x00000330      0x129 build/default/production/_ext/1865254177/plib_gpio.o
  .debug_loc     0x00000459      0x274 build/default/production/_ext/60176403/plib_nvm.o
- .debug_loc     0x000006cd       0x21 build/default/production/_ext/1171490990/initialization.o
- .debug_loc     0x000006ee      0x4c9 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_loc     0x000006cd      0x4c9 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_loc     0x00000b96       0x21 build/default/production/_ext/1171490990/initialization.o
  .debug_loc     0x00000bb7       0x2c d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_loc     0x00000be3       0x2c d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
  .debug_loc     0x00000c0f       0x2c d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
@@ -2205,9 +2206,9 @@ END GROUP
  .debug_ranges  0x00000150       0x40 build/default/production/_ext/1865200349/plib_evic.o
  .debug_ranges  0x00000190       0x50 build/default/production/_ext/1865254177/plib_gpio.o
  .debug_ranges  0x000001e0       0x88 build/default/production/_ext/60176403/plib_nvm.o
- .debug_ranges  0x00000268       0x10 build/default/production/_ext/1171490990/initialization.o
- .debug_ranges  0x00000278       0x10 build/default/production/_ext/1360937237/main.o
- .debug_ranges  0x00000288       0x70 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_ranges  0x00000268       0x70 build/default/production/_ext/1865657120/plib_uart3.o
+ .debug_ranges  0x000002d8       0x10 build/default/production/_ext/1171490990/initialization.o
+ .debug_ranges  0x000002e8       0x10 build/default/production/_ext/1360937237/main.o
  .debug_ranges  0x000002f8       0x10 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .debug_ranges  0x00000308       0x10 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
  .debug_ranges  0x00000318       0x10 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
@@ -2232,11 +2233,11 @@ END GROUP
  .gnu.attributes
                 0x00000050       0x10 build/default/production/_ext/60176403/plib_nvm.o
  .gnu.attributes
-                0x00000060       0x10 build/default/production/_ext/1171490990/initialization.o
+                0x00000060       0x10 build/default/production/_ext/1865657120/plib_uart3.o
  .gnu.attributes
-                0x00000070       0x10 build/default/production/_ext/1360937237/main.o
+                0x00000070       0x10 build/default/production/_ext/1171490990/initialization.o
  .gnu.attributes
-                0x00000080       0x10 build/default/production/_ext/1865657120/plib_uart3.o
+                0x00000080       0x10 build/default/production/_ext/1360937237/main.o
  .gnu.attributes
                 0x00000090       0x10 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
  .gnu.attributes
@@ -2321,9 +2322,9 @@ END GROUP
                 0xbfc006d0                __pic32_tlb_init_values_end = ABSOLUTE (.)
                 0x00000008                __pic32_tlb_init_values_count = 0x8
                 0x00000200                _min_heap_size = 0x200
-LOAD C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
-LOAD C:\Users\BEKE_A~1\AppData\Local\Temp\ccfta7qe.o
-LOAD C:\Users\BEKE_A~1\AppData\Local\Temp\ccm4IWx9.o
+LOAD C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
+LOAD C:\Users\BEKE_A~1\AppData\Local\Temp\ccE1jwDM.o
+LOAD C:\Users\BEKE_A~1\AppData\Local\Temp\cc8ga8dN.o
 LOAD d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/./proc/32MZ2048EFG100\default_isr_vectors.o
 LOAD d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
 LOAD d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/fpu64\libgcc.a
@@ -2458,19 +2459,19 @@ LOAD data_init
                 0x9fc01c74                CLK_Initialize
 
 .text.SYS_Initialize
-                0x9fc01d08       0x94
+                0x9fc01d08       0x8c
  .text.SYS_Initialize
-                0x9fc01d08       0x94 build/default/production/_ext/1171490990/initialization.o
+                0x9fc01d08       0x8c build/default/production/_ext/1171490990/initialization.o
                 0x9fc01d08                SYS_Initialize
 
-.text           0x9fc01d9c       0x84
- .text          0x9fc01d9c       0x84 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_data_init.o)
-                0x9fc01d9c                __pic32_data_init
+.text           0x9fc01d94       0x84
+ .text          0x9fc01d94       0x84 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(pic32_data_init.o)
+                0x9fc01d94                __pic32_data_init
 
 .text.NVM_StartOperationAtAddress
-                0x9fc01e20       0x74
+                0x9fc01e18       0x74
  .text.NVM_StartOperationAtAddress
-                0x9fc01e20       0x74 build/default/production/_ext/60176403/plib_nvm.o
+                0x9fc01e18       0x74 build/default/production/_ext/60176403/plib_nvm.o
 
 .text.CORETIMER_Start
                 0x9fc01110       0x5c
@@ -2481,105 +2482,99 @@ LOAD data_init
 .text.main_entry
                 0x9fc01190       0x54
  .text.main_entry
-                0x9fc01190       0x54 C:\Users\BEKE_A~1\AppData\Local\Temp\cc4t4fVz.o
+                0x9fc01190       0x54 C:\Users\BEKE_A~1\AppData\Local\Temp\cc2XrzS0.o
                 0x9fc011c4                __crt0_exit
 
 .text._bootstrap_exception_handler
-                0x9fc01e94       0x48
+                0x9fc01e8c       0x48
  .text._bootstrap_exception_handler
-                0x9fc01e94       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
-                0x9fc01e94                _bootstrap_exception_handler
+                0x9fc01e8c       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-bootstrap-exception-handler.o)
+                0x9fc01e8c                _bootstrap_exception_handler
 
 .text._general_exception_handler
-                0x9fc01edc       0x48
+                0x9fc01ed4       0x48
  .text._general_exception_handler
-                0x9fc01edc       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
-                0x9fc01edc                _general_exception_handler
+                0x9fc01ed4       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-general-exception-handler.o)
+                0x9fc01ed4                _general_exception_handler
 
 .text._cache_err_exception_handler
-                0x9fc01f24       0x48
+                0x9fc01f1c       0x48
  .text._cache_err_exception_handler
-                0x9fc01f24       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
-                0x9fc01f24                _cache_err_exception_handler
+                0x9fc01f1c       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-cache-err-exception-handler.o)
+                0x9fc01f1c                _cache_err_exception_handler
 
 .text._simple_tlb_refill_exception_handler
-                0x9fc01f6c       0x48
+                0x9fc01f64       0x48
  .text._simple_tlb_refill_exception_handler
-                0x9fc01f6c       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
-                0x9fc01f6c                _simple_tlb_refill_exception_handler
+                0x9fc01f64       0x48 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-simple-tlb-refill-exception-handler.o)
+                0x9fc01f64                _simple_tlb_refill_exception_handler
 
-.text           0x9fc01fb4       0x44
- .text          0x9fc01fb4       0x44 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
-                0x9fc01fb4                __pic32_software_reset
+.text           0x9fc01fac       0x44
+ .text          0x9fc01fac       0x44 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\pic32_software_reset.o
+                0x9fc01fac                __pic32_software_reset
 
 .text.CORETIMER_Initialize
-                0x9fc01ff8       0x3c
+                0x9fc01ff0       0x3c
  .text.CORETIMER_Initialize
-                0x9fc01ff8       0x3c build/default/production/_ext/1249264884/plib_coretimer.o
-                0x9fc01ff8                CORETIMER_Initialize
+                0x9fc01ff0       0x3c build/default/production/_ext/1249264884/plib_coretimer.o
+                0x9fc01ff0                CORETIMER_Initialize
 
 .text.UART3_Initialize
-                0x9fc02034       0x38
+                0x9fc0202c       0x38
  .text.UART3_Initialize
-                0x9fc02034       0x38 build/default/production/_ext/1865657120/plib_uart3.o
-                0x9fc02034                UART3_Initialize
+                0x9fc0202c       0x38 build/default/production/_ext/1865657120/plib_uart3.o
+                0x9fc0202c                UART3_Initialize
 
 .text.run_Application
-                0x9fc0206c       0x34
+                0x9fc02064       0x34
  .text.run_Application
-                0x9fc0206c       0x34 build/default/production/_ext/1748409734/bootloader.o
-                0x9fc0206c                run_Application
+                0x9fc02064       0x34 build/default/production/_ext/1748409734/bootloader.o
+                0x9fc02064                run_Application
 
 .text.NVM_RowWrite
-                0x9fc020a0       0x30
+                0x9fc02098       0x30
  .text.NVM_RowWrite
-                0x9fc020a0       0x30 build/default/production/_ext/60176403/plib_nvm.o
-                0x9fc020a0                NVM_RowWrite
+                0x9fc02098       0x30 build/default/production/_ext/60176403/plib_nvm.o
+                0x9fc02098                NVM_RowWrite
 
 .text.CORETIMER_CompareHasExpired
-                0x9fc020d0       0x2c
+                0x9fc020c8       0x2c
  .text.CORETIMER_CompareHasExpired
-                0x9fc020d0       0x2c build/default/production/_ext/1249264884/plib_coretimer.o
-                0x9fc020d0                CORETIMER_CompareHasExpired
+                0x9fc020c8       0x2c build/default/production/_ext/1249264884/plib_coretimer.o
+                0x9fc020c8                CORETIMER_CompareHasExpired
 
 .text.NVM_WriteUnlockSequence
-                0x9fc020fc       0x28
+                0x9fc020f4       0x28
  .text.NVM_WriteUnlockSequence
-                0x9fc020fc       0x28 build/default/production/_ext/60176403/plib_nvm.o
+                0x9fc020f4       0x28 build/default/production/_ext/60176403/plib_nvm.o
 
-.text.main      0x9fc02124       0x28
- .text.main     0x9fc02124       0x28 build/default/production/_ext/1360937237/main.o
-                0x9fc02124                main
-
-.text.EVIC_Initialize
-                0x9fc0214c       0x24
- .text.EVIC_Initialize
-                0x9fc0214c       0x24 build/default/production/_ext/1865200349/plib_evic.o
-                0x9fc0214c                EVIC_Initialize
+.text.main      0x9fc0211c       0x28
+ .text.main     0x9fc0211c       0x28 build/default/production/_ext/1360937237/main.o
+                0x9fc0211c                main
 
 .text.NVM_Initialize
-                0x9fc02170       0x24
+                0x9fc02144       0x24
  .text.NVM_Initialize
-                0x9fc02170       0x24 build/default/production/_ext/60176403/plib_nvm.o
-                0x9fc02170                NVM_Initialize
+                0x9fc02144       0x24 build/default/production/_ext/60176403/plib_nvm.o
+                0x9fc02144                NVM_Initialize
 
 .text.CORETIMER_CompareSet
-                0x9fc02194       0x20
+                0x9fc02168       0x20
  .text.CORETIMER_CompareSet
-                0x9fc02194       0x20 build/default/production/_ext/1249264884/plib_coretimer.o
-                0x9fc02194                CORETIMER_CompareSet
+                0x9fc02168       0x20 build/default/production/_ext/1249264884/plib_coretimer.o
+                0x9fc02168                CORETIMER_CompareSet
 
 .text.NVM_PageErase
-                0x9fc021b4       0x20
+                0x9fc02188       0x20
  .text.NVM_PageErase
-                0x9fc021b4       0x20 build/default/production/_ext/60176403/plib_nvm.o
-                0x9fc021b4                NVM_PageErase
+                0x9fc02188       0x20 build/default/production/_ext/60176403/plib_nvm.o
+                0x9fc02188                NVM_PageErase
 
 .text.UART3_WriteByte
-                0x9fc021d4       0x20
+                0x9fc021a8       0x20
  .text.UART3_WriteByte
-                0x9fc021d4       0x20 build/default/production/_ext/1865657120/plib_uart3.o
-                0x9fc021d4                UART3_WriteByte
+                0x9fc021a8       0x20 build/default/production/_ext/1865657120/plib_uart3.o
+                0x9fc021a8                UART3_WriteByte
 
 .text           0x9fc011e4       0x18
  .text          0x9fc011e4       0x18 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-nmi-handler.o)
@@ -2598,37 +2593,37 @@ LOAD data_init
                 0x9fc0116c                UART3_TransmitComplete
 
 .text.UART3_ReadByte
-                0x9fc021f4       0x10
+                0x9fc021c8       0x10
  .text.UART3_ReadByte
-                0x9fc021f4       0x10 build/default/production/_ext/1865657120/plib_uart3.o
-                0x9fc021f4                UART3_ReadByte
+                0x9fc021c8       0x10 build/default/production/_ext/1865657120/plib_uart3.o
+                0x9fc021c8                UART3_ReadByte
 
 .text.UART3_ReceiverIsReady
-                0x9fc02204       0x10
+                0x9fc021d8       0x10
  .text.UART3_ReceiverIsReady
-                0x9fc02204       0x10 build/default/production/_ext/1865657120/plib_uart3.o
-                0x9fc02204                UART3_ReceiverIsReady
+                0x9fc021d8       0x10 build/default/production/_ext/1865657120/plib_uart3.o
+                0x9fc021d8                UART3_ReceiverIsReady
 
 .text.bootloader_Trigger
-                0x9fc02214        0x8
+                0x9fc021e8        0x8
  .text.bootloader_Trigger
-                0x9fc02214        0x8 build/default/production/_ext/1748409734/bootloader.o
-                0x9fc02214                bootloader_Trigger
+                0x9fc021e8        0x8 build/default/production/_ext/1748409734/bootloader.o
+                0x9fc021e8                bootloader_Trigger
 
 .text.GPIO_Initialize
-                0x9fc0221c        0x8
+                0x9fc021f0        0x8
  .text.GPIO_Initialize
-                0x9fc0221c        0x8 build/default/production/_ext/1865254177/plib_gpio.o
-                0x9fc0221c                GPIO_Initialize
+                0x9fc021f0        0x8 build/default/production/_ext/1865254177/plib_gpio.o
+                0x9fc021f0                GPIO_Initialize
 
 .text._on_reset
-                0x9fc02224        0x8
+                0x9fc021f8        0x8
  .text._on_reset
-                0x9fc02224        0x8 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
-                0x9fc02224                _on_reset
+                0x9fc021f8        0x8 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-reset.o)
+                0x9fc021f8                _on_reset
 
 .text._on_bootstrap
-                0x9fc0222c        0x8
+                0x9fc02200        0x8
  .text._on_bootstrap
-                0x9fc0222c        0x8 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
-                0x9fc0222c                _on_bootstrap
+                0x9fc02200        0x8 d:/programok/xc32/bin/bin/../../lib/gcc/pic32mx/4.8.3/../../../../pic32mx/lib/fpu64\libpic32.a(default-on-bootstrap.o)
+                0x9fc02200                _on_bootstrap

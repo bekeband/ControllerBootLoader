@@ -63,11 +63,11 @@
 #pragma config FECCCON =    OFF_UNLOCKED
 #pragma config FSLEEP =     OFF
 #pragma config DBGPER =     PG_ALL
-#pragma config SMCLR =      MCLR_NORM
-#pragma config SOSCGAIN =   GAIN_LEVEL_3
-#pragma config SOSCBOOST =  ON
-#pragma config POSCGAIN =   GAIN_LEVEL_3
-#pragma config POSCBOOST =  ON
+//#pragma config SMCLR =      MCLR_NORM
+//#pragma config SOSCGAIN =   GAIN_LEVEL_3
+//#pragma config SOSCBOOST =  ON
+//#pragma config POSCGAIN =   GAIN_LEVEL_3
+//#pragma config POSCBOOST =  ON
 #pragma config EJTAGBEN =   NORMAL
 #pragma config CP =         OFF
 
@@ -191,7 +191,7 @@ void SYS_Initialize ( void* data )
 
 
 
-    EVIC_Initialize();
+//    EVIC_Initialize();
 
 
 
